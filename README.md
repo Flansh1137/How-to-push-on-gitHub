@@ -10,7 +10,6 @@ git branch -M main             # Set main branch
 git remote add origin <repo-url>  # Connect to GitHub
 git push -u origin main        # Upload code to GitHub
 
-
 **New Branch (Optional)**
 git checkout -b my-branch      # Create new branch
 git add .
